@@ -1,6 +1,6 @@
 
 
-@media only screen and (max-width: 768px){
+@media screen and (max-width: 768px){
     *{
         font-family: poppins;
         padding: 0;
@@ -9,7 +9,6 @@
     
     body{
         background: rgb(248, 248, 248);
-        min-width: 375px;
         width: 100%;
     }
     
