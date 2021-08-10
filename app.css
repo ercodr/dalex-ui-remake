@@ -9,7 +9,8 @@
     
     body{
         background: rgb(248, 248, 248);
-        width: 100%;
+        max-width: 100%;
+        min-width: 640px;
     }
     
     .app-bar{
